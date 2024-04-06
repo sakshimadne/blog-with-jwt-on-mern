@@ -4,5 +4,3 @@
  * MONGODB_URI: The MongoDB connection URI for the database.
  * JWT_SECRET: The secret key used for JSON Web Token (JWT) authentication.
  */
-MONGODB_URI="mongodb+srv://azad:azad@cluster0.okzvy.mongodb.net/delete?retryWrites=true&w=majority&appName=Cluster0"
-JWT_SECRET=mysecret
